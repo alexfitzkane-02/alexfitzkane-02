@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Alex</h1>
+<h3 align="center">A passionate developer from Boston</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on building an API that includes Jwt Authentication<br>👯 I’m looking to collaborate on any projects that require some back-end help<br>🌱 I’m currently learning Typescript, JavaScript, AI and whatever else catches my interest.<br>💬 Ask me about SQL, APIs, and the amount of times I have forgotten a ";"<br>
 
